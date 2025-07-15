@@ -34,11 +34,11 @@ This helped me improve in:
 - Sending email using EmailJS from frontend
 
 ## Installation & Setup
-git clone https://github.com/saqibhussain789/gym.git
-cd gym
-npm install
-npm run dev
-App will be available at: http://localhost:5173
+- git clone https://github.com/saqibhussain789/gym.git
+- cd gym
+- npm install
+- npm run dev
+- App will be available at: http://localhost:5173
 
 ## EmailJS Integration
 This project uses EmailJS to send emails from the frontend.
@@ -48,13 +48,13 @@ This project uses EmailJS to send emails from the frontend.
 3. Get your Service ID, Template ID, and Public Key
 4. Use them in your email send function
 5. On successful send, you’ll see something like:
-New Fit Club Member abc123@gmail.com
-Best wishes,  
-EmailJS team
+- New Fit Club Member abc123@gmail.com
+- Best wishes,
+- EmailJS team
 
 ## Author
-Saqib Hussain
-Frontend Developer
+- Saqib Hussain
+- Frontend Developer
 
 
 
